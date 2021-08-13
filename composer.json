@@ -1,0 +1,20 @@
+{
+  "name": "fangzhen/rpcservice",
+  "type": "library",
+  "keywords": [
+    "php",
+    "rpc",
+    "jsonrpc"
+  ],
+  "description": "一个rpc接口的依赖",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "fangzhen\\rpcservice\\src": "src"
+    },
+    "files": []
+  }
+}
