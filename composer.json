@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "fangzhen\\rpcservice\\src\\": "src/"
+      "fangzhen\\rpcservice\\": "src"
     },
     "files": []
   }
