@@ -6,7 +6,7 @@
  * Created by Fangzhen
  */
 
-namespace fangzhen\rpcservice\JsonRpc;
+namespace Fangzhen\Rpcservice\JsonRpc;
 
 
 class TestComposer

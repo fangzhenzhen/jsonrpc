@@ -1,5 +1,5 @@
 <?php
-namespace fangzhen\rpcservice\JsonRpc;
+namespace Fangzhen\Rpcservice\JsonRpc;
 
 interface CalculatorServiceInterface
 {
